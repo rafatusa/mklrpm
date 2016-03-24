@@ -1,0 +1,29 @@
+Name:newrpm	
+Version:1	
+Release:	1%{?dist}
+Summary:its a test rpm	
+Group:		System enviroment/Base
+License:	GPLv2+
+		
+	
+
+	
+	
+
+%description
+
+%prep 
+ls
+
+
+%build
+
+%BUILDROOT
+
+%install
+
+
+%files
+
+
+
